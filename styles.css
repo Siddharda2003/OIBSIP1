@@ -39,14 +39,13 @@ hr{
     position:relative;
 }
 .lt{
-    width: 25%;
+    width: 200px;
 }
 .intro{
     width: 20%;
     margin: auto;
     text-align: left;
-    line-height: 2;
-    font-size: 1.2em;
+    font-size: 1 em;
 }
 .p{
     line-height: 2;
@@ -70,21 +69,21 @@ hr{
     margin:100px auto 100px auto;
 }
 .programming{
-    width:6%;
+    width:50px;
     display: inline-block;
 }
 .cpt{
     display: inline-block;
 }
 .web-development{
-    width:6%;
+    width:50px;
     display: inline-block;
 }
 .wd{
     display: inline-block;
 }
 .siddhu-img{
-    width:15%;
+    width:200px;
     border-radius: 50%;
 }
 .desp{
@@ -130,6 +129,11 @@ hr{
 .copyright{
     padding :20px 0px;
     font-size: 1 em;
+}
+.cbtn{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .email {
     background: #44d934;
