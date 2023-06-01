@@ -1,0 +1,17 @@
+body{
+    background-color: #DDE6ED;
+}
+h2{
+    text-decoration: underline;
+}
+.pic{
+    border-radius: 50%;
+    width:150px;
+}
+table{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.intro, .ed, .skill, .sk, .certi, .con{
+    font-size:1.2rem;
+}
